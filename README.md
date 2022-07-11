@@ -24,4 +24,5 @@ User responds to prompts on what length password they would like as well as if t
 https://julieanaplocher.github.io/Pw_generator/
 
 ## Screenshot
-<screenshot(s) go here>
+
+![Screen Shot 2022-07-11 at 3 10 56 PM](https://user-images.githubusercontent.com/106258911/178349699-f4c37422-0456-4bd0-b20b-d03656b167e9.png)
